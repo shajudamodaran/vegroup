@@ -24,7 +24,7 @@ function Homepage() {
                         <div className="company-name">
 
                             <img src={require('../../Assets/Images/ve_main_logo.png')} alt="" className='logo' />
-                            <div className='name'> Velamkunnil Group</div>
+                            <div className='name'> velankunnel Group</div>
                         </div>
 
                         <ul className="home-header-nav">
@@ -411,7 +411,7 @@ function Homepage() {
             </div>
 
             <fiv className="footer">
-                <div className="copyright">© Copyright 2022 Velamkunnil Grop</div>
+                <div className="copyright">© Copyright 2022 Velankunnel Grop</div>
                 <div className="powerd-by">Designed by Ather Creation</div>
             </fiv>
 
